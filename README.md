@@ -1,6 +1,7 @@
 # EshelonTestTask
  Test task
 Важно! Установить wine
+
 Запуск:
 
 go run server.go
